@@ -1,0 +1,8 @@
+{
+  "name": "ionic-conference-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "64a6582c"
+}
