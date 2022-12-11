@@ -24,7 +24,7 @@
     "@capacitor/core": "4.3.0",
     "@capacitor/haptics": "4.0.1",
     "@capacitor/keyboard": "4.0.1",
-    "@capacitor/status-bar": "4.0.1",
+    "@capacitor/status-bar": "4.1.1",
     "@ionic/angular": "6.4.0",
     "rxjs": "7.5.7",
     "tslib": "2.4.0",
