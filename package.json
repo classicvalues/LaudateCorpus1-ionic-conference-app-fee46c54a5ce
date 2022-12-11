@@ -29,7 +29,7 @@
     "rxjs": "7.6.0",
     "@ionic/angular": "6.4.0",
     "tslib": "2.4.1",
-    "zone.js": "0.11.8"
+    "zone.js": "0.12.0"
   },
   "devDependencies": {
     "@angular/cli": "15.0.3",
@@ -42,7 +42,7 @@
     "@angular-eslint/eslint-plugin": "15.1.0",
     "@angular-eslint/eslint-plugin-template": "15.1.0",
     "@angular-eslint/template-parser": "15.1.0",
-    "@angular/compiler": "14.2.8",
+    "@angular/compiler": "14.2.12",
     "@capacitor/cli": "4.3.0",
     "@ionic/angular-toolkit": "7.0.0",
     "@types/jasmine": "4.3.1",
@@ -52,7 +52,7 @@
     "@typescript-eslint/parser": "5.40.1",
     "eslint": "8.25.0",
     "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-jsdoc": "39.5.0",
+    "eslint-plugin-jsdoc": "39.6.4",
     "eslint-plugin-prefer-arrow": "1.2.3",
     "jasmine-core": "4.4.0",
     "jasmine-spec-reporter": "7.0.0",
